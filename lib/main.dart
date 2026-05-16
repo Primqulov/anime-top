@@ -68,7 +68,7 @@ class AnimationMenuPage extends StatelessWidget {
 
 Widget buildBall() {
   return Image.asset(
-    'assets/images/ball.jpg',
+    'assets/images/ball.png',
     width: 150,
     height: 150,
   );
